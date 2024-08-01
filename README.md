@@ -3,8 +3,7 @@
 ###
 
 <div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=18wastaken&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=18wastaken&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=18wastaken&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=0" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -31,8 +30,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/18wastaken/18wastaken/output/snake.svg" alt="Snake animation" />
 
